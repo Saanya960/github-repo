@@ -1,3 +1,3 @@
 # github-repo
-a place to track my code.
-Saanya Mittal
+a place to track my code. <br>
+Saanya Mittal 
