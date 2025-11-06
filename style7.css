@@ -1,0 +1,26 @@
+table {
+    height:400px;
+    width:500px;
+    position: absolute;
+    inset:30% 60% 30% 30%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color:rgb(199, 68, 24);
+}
+h2 {
+    color:coral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a {
+    text-decoration: none;
+    color:darkslategrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:coral;
+    font-weight: lighter;
+}
+th {
+    text-decoration: underline solid  3px;
+}
