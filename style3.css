@@ -1,0 +1,71 @@
+h1 {
+    color:#f00;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity: 0.8;
+      background-color:color-mix(in oklab, yellow, red 40%);
+}
+/* adding a background box */
+.main {
+    width:1510px ;
+    height:300px;
+    background-color:color-mix(in oklab, yellow, red 40%);
+    opacity: 0.6;
+    display:flex;
+}
+
+/* Adding a background color to the top navigation */
+.topnav {
+  background-color: #33333331;
+  overflow: hidden;
+}
+
+/* Styling the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color:#808080;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 15px; 
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* Changing the color of links on hover */
+.topnav a:hover {
+  color: black;
+}
+
+/* Adding a color to the active/current link */
+.topnav a.active {
+  background-color: wheat;
+  color: black;
+}
+/* giving the images required size */
+.image1 {
+     width:502px ;
+    height:200px;
+}
+.image2 {
+     width:502px ;
+    height:200px;
+}
+.image3 {
+     width:502px ;
+    height:200px;
+}
+/* styling the login section */
+form {
+    background-image: url("https://img.freepik.com/free-photo/gradient-navy-blue-digital-grid-wallpaper_53876-104785.jpg?semt=ais_hybrid&w=740&q=80");
+    background-size: auto;
+}
+#user {
+     position:relative;
+    margin-left: 50%;
+}
+#pass {
+     position:relative;
+    margin-left: 50%;
+}
+h2 {
+    color:coral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
