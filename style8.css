@@ -1,0 +1,33 @@
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+}
+a {
+    text-decoration: none;
+    color:darkslategrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:coral;
+    font-weight: lighter;
+}
+
+div {
+    color:gold;
+    background-color: red;
+    width:fit-content;
+    height:fit-content;
+}
+table {
+    width:400px;
+    height:200px;
+}
+i {
+    color:red;
+}
+u {
+    font-weight: bolder;
+    font-family:sans-serif;
+    text-decoration: underline solid teal 3px;
+}
